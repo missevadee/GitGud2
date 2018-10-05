@@ -1,13 +1,13 @@
 # lab exercise
 go to https://github.com/CWMe/GitGud2.git and click the fork button in the top right
 
-clone your new forked repo
+clone your new forked repo 
 ```
 git clone YOUR_FORKED_REPO_URL_HERE
 cd GitGud2
 ```
 
-create a feature branch from master
+create a feature branch called 'feature-a' from master 
 ```
 git checkout -b feature-a master
 ```
@@ -28,5 +28,5 @@ git push origin feature-a
 ```
 
 # submit pull request
-go to https://github.com/CWMe/GitGud2/compare and setup a new pull request from your `feature-a` branch to `master`. Make sure to specify that your branch is coming from a Forked repository
+go to https://github.com/CWMe/GitGud2/compare and setup a new pull request from your `feature-a` branch to `master` by clicking compare. Make sure to specify that your branch is coming from a Forked repository
 
